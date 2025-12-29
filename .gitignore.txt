@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment Variables 
+.env
+
+# Uploads 
+src/uploads/*
+!src/uploads/.gitkeep
+
+# Production builds
+dist/
+build/
+
+# IDE files
+.vscode/
+.DS_Store

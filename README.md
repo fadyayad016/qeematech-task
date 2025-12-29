@@ -25,7 +25,7 @@ A comprehensive educational platform consisting of two main portals:
 ## ⚙️ Setup & Installation
 
 ### 1. Prerequisites
-- Node.js (v18+)
+- Node.js 
 - MySQL Server
 
 ### 2. Backend Setup

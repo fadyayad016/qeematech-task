@@ -48,8 +48,9 @@ npx prisma generate
 4. Start the server:
 npm run dev3. Frontend Setup
 ### 3. frontend Setup
-1.Navigate to the frontend directory:
+1. Navigate to the frontend directory:
 cd qeematech-frontend
 npm install
+
 2. Start the development server:
 npm run dev
